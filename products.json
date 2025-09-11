@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "Balón de Rugby Gilbert Oficial",
+        "price": 39.99,
+        "description": "Balón de rugby oficial tamaño 5, ideal para entrenamientos y partidos profesionales. Fabricado en material resistente con agarre superior.",
+        "category": "balones",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxXNBcZsCxMK7AMf-rnPqJ3AMizXdwRn4sCx76MZ4Ciqx-YLWmQNJfbFp4dsYVJDQ4GGwTCphYSEjWdF0h7BT1HZNMHHm7wvtSpwGts_BgGYCjP8aR_BadGi9w6jcUq4Zw1fNFWCwuNLY&usqp=CAc",
+        "rating": {
+        "rate": 4.8,
+        "count": 320
+        }
+    },
+    {
+        "id": 2,
+        "title": "Camiseta Rugby Canterbury Pro",
+        "price": 59.95,
+        "description": "Camiseta técnica de rugby Canterbury Pro con costuras reforzadas y diseño transpirable para alto rendimiento.",
+        "category": "ropa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_807079-MLA28695242767_112018-O.webp",
+        "rating": {
+        "rate": 4.7,
+        "count": 210
+        }
+    },
+    {
+        "id": 3,
+        "title": "Protector Bucal OPRO Rugby",
+        "price": 15.99,
+        "description": "Protector bucal moldeable con ajuste personalizado para máxima seguridad en el contacto. Aprobado por World Rugby.",
+        "category": "protecciones",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYndLC7xB6a8FDOscCKEs85mwT6KyaWAgIQ&s",
+        "rating": {
+        "rate": 4.5,
+        "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Botas de Rugby Adidas Kakari",
+        "price": 120,
+        "description": "Botas de rugby para forwards con tacos metálicos intercambiables y sujeción reforzada para el scrum.",
+        "category": "calzado",
+        "image": "https://m.media-amazon.com/images/I/817h06J-hSL._AC_SL1500_.jpg",
+        "rating": {
+        "rate": 4.9,
+        "count": 410
+        }
+    },
+    {
+        "id": 5,
+        "title": "Shorts Rugby Gilbert",
+        "price": 24.99,
+        "description": "Pantaloneta ligera de rugby con costuras reforzadas y elástico ajustable. Diseñada para resistir el contacto intenso.",
+        "category": "ropa",
+        "image": "https://res.cloudinary.com/moresport/image/upload/a_0,c_fill,f_auto,q_auto:good/v1575961299/assets/1084092_1084092-9_001.jpg",
+        "rating": {
+        "rate": 4.4,
+        "count": 180
+        }
+    },
+    {
+        "id": 6,
+        "title": "Hombreras Canterbury Club Plus",
+        "price": 89.99,
+        "description": "Chaleco protector de hombros y pecho acolchado para máxima seguridad en partidos de rugby.",
+        "category": "protecciones",
+        "image": "https://es.boutique-rugby.com/media/catalog/product/cache/513bb6d72de435235c32751ce8ca66b9/q/a/qa006436ah7_1.jpeg",
+        "rating": {
+        "rate": 4.6,
+        "count": 270
+        }
+    },
+    {
+        "id": 7,
+        "title": "Casco Scrum Rugby Impact",
+        "price": 49.99,
+        "description": "Casco acolchado para rugby con ventilación y protección aprobada por World Rugby.",
+        "category": "protecciones",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLUGmnYmNzZmdpVX-Ro6kohKflCDVXB9-vg&s",
+        "rating": {
+        "rate": 4.3,
+        "count": 360
+        }
+    },
+    {
+        "id": 8,
+        "title": "Balón de Entrenamiento Rhino",
+        "price": 25.5,
+        "description": "Balón de rugby Rhino especial para entrenamientos en césped o arena, con grip duradero.",
+        "category": "balones",
+        "image": "https://ae01.alicdn.com/kf/A3115b6bf0f754bc4939bdb1e5fb3ed23z.jpg",
+        "rating": {
+        "rate": 4.2,
+        "count": 150
+        }
+    },
+    {
+        "id": 9,
+        "title": "Sudadera Rugby All Blacks",
+        "price": 75,
+        "description": "Sudadera oficial de los All Blacks con logo bordado y diseño clásico en color negro.",
+        "category": "ropa",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBhl6uvUwSKXBE_iF70tl3U-CIVakoTv1qw&s",
+        "rating": {
+        "rate": 4.9,
+        "count": 500
+        }
+    },
+    {
+        "id": 10,
+        "title": "Conos de Entrenamiento Rugby",
+        "price": 19.99,
+        "description": "Set de 50 conos para entrenamiento de rugby, ideal para ejercicios de velocidad y agilidad.",
+        "category": "accesorios",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNKXho2XMRWs1T36oXadYwxQZsgHF3Di7OKQ&s",
+        "rating": {
+        "rate": 4.4,
+        "count": 220
+        }
+    },
+    {
+        "id": 11,
+        "title": "Guantes Rugby Gilbert",
+        "price": 22.99,
+        "description": "Guantes ligeros con grip de silicona para mejor control del balón en condiciones de lluvia.",
+        "category": "ropa",
+        "image": "data:image/jpeg;base64,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",
+        "rating": {
+        "rate": 4.1,
+        "count": 145
+        }
+    },
+    {
+        "id": 12,
+        "title": "Medias Rugby Canterbury",
+        "price": 12.99,
+        "description": "Medias largas con refuerzo en talón y puntera, perfectas para partidos y entrenamientos de rugby.",
+        "category": "ropa",
+        "image": "data:image/jpeg;base64,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",
+        "rating": {
+        "rate": 4.7,
+        "count": 300
+        }
+    },
+    {
+        "id": 13,
+        "title": "Chaleco de Entrenamiento Rugby",
+        "price": 18.99,
+        "description": "Chaleco reversible de entrenamiento para equipos de rugby. Ligero y transpirable.",
+        "category": "ropa",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbd0dpGAC8ybbGJAPVFoONrdrtCcpRkBlVj8Y_pl_V2IDBFCmDy1fUkdt74eEN5IZFN4QWn5VYi86MsgE4EBbq1-RGAMGQRg1O-Y7GN445pRVp_bP_RYJnfhxozo0vlXPtWGL8mpmky3U&usqp=CAc",
+        "rating": {
+        "rate": 4.5,
+        "count": 210
+        }
+    },
+    {
+        "id": 14,
+        "title": "Set de Tacos Metálicos Rugby",
+        "price": 14.5,
+        "description": "Juego de 16 tacos metálicos para botas de rugby, compatibles con Adidas, Nike y Canterbury.",
+        "category": "accesorios",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPO_1PbEQy2euoVNR2aH1WLEaIiq1CcQdsQ&s",
+        "rating": {
+        "rate": 4.3,
+        "count": 190
+        }
+    },
+    {
+        "id": 15,
+        "title": "Chaqueta Rugby Selección Francia",
+        "price": 89.99,
+        "description": "Chaqueta oficial de la selección francesa de rugby, ligera, con cremallera completa y diseño tricolor.",
+        "category": "ropa",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17K-6c2ny5fFQ7hPFFCD92BIYSiwvNKK-7w&s",
+        "rating": {
+        "rate": 4.8,
+        "count": 270
+        }
+    },
+    {
+        "id": 16,
+        "title": "Bolso Deportivo Rugby Gilbert",
+        "price": 34.99,
+        "description": "Bolso deportivo amplio con compartimentos para botas y protecciones, ideal para rugby.",
+        "category": "accesorios",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrolyP-PFKww2rwAfkUkdIGNXdNwa11nCkUQ&s",
+        "rating": {
+        "rate": 4.6,
+        "count": 190
+        }
+    },
+    {
+        "id": 17,
+        "title": "Entrenador de Pase Rugby",
+        "price": 45,
+        "description": "Dispositivo de rebote para entrenar la precisión de los pases de rugby en solitario.",
+        "category": "entrenamiento",
+        "image": "https://shadowball.cl/cdn/shop/products/shadowball_pro_advancer_00_800x.png?v=1626312513",
+        "rating": {
+        "rate": 4.5,
+        "count": 120
+        }
+    },
+    {
+        "id": 18,
+        "title": "Gorra Rugby All Blacks",
+        "price": 24.5,
+        "description": "Gorra oficial All Blacks con bordado de helecho plateado. Ajustable y ligera.",
+        "category": "accesorios",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLGGkFtiH2KaN9XqXqjBsTs2uNA5LR-HN5A&s",
+        "rating": {
+        "rate": 4.9,
+        "count": 400
+        }
+    },
+    {
+        "id": 19,
+        "title": "Balón Mini Rugby Gilbert",
+        "price": 12.99,
+        "description": "Balón de rugby tamaño mini, perfecto para niños o como souvenir de entrenamiento.",
+        "category": "balones",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uhhgLslAZKBjrrddHwfHpJS-0tYdsIFMAg&s",
+        "rating": {
+        "rate": 4.6,
+        "count": 150
+        }
+    },
+    {
+        "id": 20,
+        "title": "Camiseta Rugby Inglaterra",
+        "price": 64.99,
+        "description": "Camiseta oficial de rugby Inglaterra, edición 2024, con tecnología transpirable Vapodri.",
+        "category": "ropa",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkifJazb6zhQETzwHmmDu6WdQftm5ONCIxQ&s",
+        "rating": {
+        "rate": 4.8,
+        "count": 310
+        }
+    }
+]
